@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annabelle</h1>
 <h3 align="center">A passionate and ambitious frontend developer from Germany</h3>
 
-- 🌱 I’m currently learning **react & python**
+- 🌱 I’m currently learning **react & python, Node.js, Express.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
