@@ -4,9 +4,10 @@
 - 🌱 I’m currently learning **react, python, Node.js, Express.js**
 
 <h3 align="left">Projekte:</h3>
-- :video_game:  : Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/
-- :headphones: Webpage für einen Kopfhörer-Hersteller : https://schlabauke.github.io/Projekt-Headphones/
-- :herb: Projekt California Calling: https://schlabauke.github.io/Project-California-Calling/
+
+<p> :video_game:  : Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/ </p>
+<p> :headphones: Webpage für einen Kopfhörer-Hersteller : https://schlabauke.github.io/Projekt-Headphones/ </p>
+<p> :herb: Projekt California Calling: https://schlabauke.github.io/Project-California-Calling/ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
