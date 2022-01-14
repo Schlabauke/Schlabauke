@@ -2,7 +2,8 @@
 <h3 align="center">A passionate and ambitious frontend developer from Germany</h3>
 
 - 🌱 I’m currently learning **react & python, Node.js, Express.js**
-- :computer: cool Projects:
+
+** Projekte: **
 - :video_game:  : Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/
 - :headphones: Webpage für einen Kopfhörer-Hersteller : https://schlabauke.github.io/Projekt-Headphones/
 - :herb: Projekt California Calling: https://schlabauke.github.io/Project-California-Calling/
