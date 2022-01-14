@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react & python, Node.js, Express.js**
 - :computer: cool Projects:
-- :spock: Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/
+- :vulcan: : Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/
 - :headphones: Webpage für einen Kopfhörer-Hersteller : https://schlabauke.github.io/Projekt-Headphones/
 - :herb: Projekt California Calling: https://schlabauke.github.io/Project-California-Calling/
 
