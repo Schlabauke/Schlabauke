@@ -6,6 +6,7 @@
 <h3 align="left">Projekte:</h3>
 
 <p> :video_game:  : Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/ </p>
+<p> 🛍️ : Design Shop:  https://schlabauke.github.io/Project-Designshop/
 <p> :headphones: Webpage für einen Kopfhörer-Hersteller : https://schlabauke.github.io/Projekt-Headphones/ </p>
 <p> :herb: Projekt California Calling: https://schlabauke.github.io/Project-California-Calling/ </p>
 
