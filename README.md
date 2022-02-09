@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and ambitious frontend developer from Germany</h3>
 
 - 🌱 I’m currently learning **react, python, Node.js, Express.js, MongoDb, Backend-Basics**
-- :Work in Progress: 
+- :gear: Work in Progress: 
   <ul>
   <li>Hungry People with Backend </li>
   <li>Design Shop with Backend </li>
