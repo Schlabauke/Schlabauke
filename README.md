@@ -6,7 +6,7 @@
   <ul>
   <li>Hungry People with Backend </li>
   <li>Design Shop with Backend </li>
-  <li>Explore and Travel with Backend </li>
+  <li>Explore and Travel with Backend (https://github.com/Schlabauke/ProjectExploreAndTravel) </li>
   </ul>
 
 <h3 align="left">Projekte:</h3>
