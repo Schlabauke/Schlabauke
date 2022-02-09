@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Annabelle</h1>
 <h3 align="center">A passionate and ambitious frontend developer from Germany</h3>
 
-- 🌱 I’m currently learning **react, python, Node.js, Express.js**
+- 🌱 I’m currently learning **react, python, Node.js, Express.js, MongoDb, Backend-Basics**
+- :technologien: Work in Progress: 
+- <ol align='center'>
+  <li>Hungry People with Backend </li>
+  <li>Design Shop with Backend </li>
+  <li>Explore and Travel with Backend </li>
+  </ol>
 
 <h3 align="left">Projekte:</h3>
 
