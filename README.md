@@ -5,10 +5,12 @@
 - :gear: Work in Progress: 
   <ul>
     <li>Explore and Travel with LogIn,Register,Database-Connection </li>
+  <li> DesignShop with Database-Connection, Searchbar, Sale-Option </li>
   </ul>
 
 <h3 align="left">Projekte:</h3>
 
+<p> 🛍️  Design Shop with Database-Connection: https://schlabauke.github.io/ProjektDesignShopBackend/
 <p> :earth_africa: Explore and Travel (FrontEnd-Part) : https://schlabauke.github.io/ProjectExploreAndTravel/ </p>
 <p> :tropical_drink:  DrinksAndchill : https://drinksandchill.netlify.app/ , Teamprojekt </p>
 <p> :video_game:   Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/ </p>
