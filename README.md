@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annabelle</h1>
 <h3 align="center">A passionate and ambitious frontend developer from Germany</h3>
 
-- 🌱 I’m currently learning **react, python, Node.js, Express.js, MongoDb, Backend-Basics**
+- 🌱 I’m currently learning **react, Node.js, Express.js, MongoDb, Backend-Basics**
 - :gear: Work in Progress: 
   <ul>
     <li>Explore and Travel with LogIn,Register,Database-Connection </li>
@@ -9,6 +9,7 @@
 
 <h3 align="left">Projekte:</h3>
 
+<p> :earth_africa: Explore and Travel (FrontEnd-Part) : https://schlabauke.github.io/ProjectExploreAndTravel/ </p>
 <p> :tropical_drink: : DrinksAndchill : https://drinksandchill.netlify.app/ , Teamprojekt </p>
 <p> :video_game:  : Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/ </p>
 <p> 🛍️ : Design Shop:  https://schlabauke.github.io/Project-Designshop/ </p>
