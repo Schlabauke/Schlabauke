@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **react, Node.js, Express.js, MongoDb, Backend-Basics**
 - :gear: Work in Progress: 
   <ul>
-    <li>Explore and Travel with LogIn,Register,Database-Connection </li>
+    <li>Explore and Travel with LogIn,Register,Database-Connection (MERN) </li>
   <li> DesignShop with Database-Connection, Searchbar, Sale-Option </li>
   </ul>
 
