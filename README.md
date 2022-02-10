@@ -10,9 +10,9 @@
 <h3 align="left">Projekte:</h3>
 
 <p> :earth_africa: Explore and Travel (FrontEnd-Part) : https://schlabauke.github.io/ProjectExploreAndTravel/ </p>
-<p> :tropical_drink: : DrinksAndchill : https://drinksandchill.netlify.app/ , Teamprojekt </p>
-<p> :video_game:  : Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/ </p>
-<p> 🛍️ : Design Shop:  https://schlabauke.github.io/Project-Designshop/ </p>
+<p> :tropical_drink:  DrinksAndchill : https://drinksandchill.netlify.app/ , Teamprojekt </p>
+<p> :video_game:   Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/ </p>
+<p> 🛍️  Design Shop:  https://schlabauke.github.io/Project-Designshop/ </p>
 <p> 🖌️ Projekt Designer Challenge : https://schlabauke.github.io/Projekt-DesignerChallenge/ </p>
 <p> :headphones: Webpage für einen Kopfhörer-Hersteller : https://schlabauke.github.io/Projekt-Headphones/ </p>
 <p> :herb: Projekt California Calling: https://schlabauke.github.io/Project-California-Calling/ </p>
