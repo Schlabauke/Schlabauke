@@ -10,7 +10,6 @@
 
 <h3 align="left">Projekte:</h3>
 
-<p> :earth_africa: Explore and Travel (FrontEnd-Part) : https://schlabauke.github.io/ProjectExploreAndTravel/ </p>
 <p> :tropical_drink:  DrinksAndchill : https://drinksandchill.netlify.app/ , Teamprojekt </p>
 <p> :video_game:   Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/ </p>
 <p> 🛍️  Design Shop:  https://schlabauke.github.io/Project-Designshop/ </p>
