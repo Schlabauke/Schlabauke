@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Annabelle</h1>
 <h3 align="center">A passionate and ambitious frontend developer from Germany</h3>
 
-- 🌱 I’m currently learning **react, Node.js, Express.js, MongoDb, Backend-Basics**
+- 🌱 I’m currently learning **react, Node.js, Express.js, MongoDb, Backend-Basics, JavaScript Intermediate**
 - :gear: Work in Progress: 
   <ul>
-    <li>Explore and Travel with LogIn,Register,Database-Connection (MERN) </li>
-  <li> DesignShop with Database-Connection, Searchbar, Sale-Option </li>
+   <li>Explore and Travel with LogIn,Register,Database-Connection (MERN) </li>
+    <li> DesignShop with Database-Connection, Searchbar, Sale-Option </li>
   </ul>
 
 <h3 align="left">Projekte:</h3>
 
+<p> 🦝 Nothing2Trash : https://nothing2trash.herokuapp.com/ , Teamprojekt, MERN-Stack </p>
 <p> :tropical_drink:  DrinksAndchill : https://drinksandchill.netlify.app/ , Teamprojekt </p>
 <p> :video_game:   Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/ </p>
 <p> 🛍️  Design Shop:  https://schlabauke.github.io/Project-Designshop/ </p>
