@@ -5,11 +5,11 @@
 - :gear: Work in Progress: 
   <ul>
    <li>Explore and Travel with LogIn,Register,Database-Connection (MERN), you can have a look at the Frontend-Part </li>
-    <li> DesignShop with Database-Connection, Searchbar, Sale-Option </li>
   </ul>
 
 <h3 align="left">Projects:</h3>
 
+<p> 🛍️ DesignShop(mit Backend) : https://designshopbackend.herokuapp.com/ </p>
 <p> 🌍 ExploreAndTravel: https://projectexploreandtravel.netlify.app/ , FrontEnd-Part </p> 
 <p> 🦝 Nothing2Trash : https://nothing2trash.herokuapp.com/ , Teamprojekt, MERN-Stack </p>
 <p> :tropical_drink:  DrinksAndchill : https://drinksandchill.netlify.app/ , Teamprojekt </p>
