@@ -4,12 +4,13 @@
 - 🌱 I’m currently learning **react, Node.js, Express.js, MongoDb, Backend-Basics, JavaScript Intermediate**
 - :gear: Work in Progress: 
   <ul>
-   <li>Explore and Travel with LogIn,Register,Database-Connection (MERN) </li>
+   <li>Explore and Travel with LogIn,Register,Database-Connection (MERN), you can have a look at the Frontend-Part </li>
     <li> DesignShop with Database-Connection, Searchbar, Sale-Option </li>
   </ul>
 
 <h3 align="left">Projekte:</h3>
 
+<p> 🌍 ExploreAndTravel: https://projectexploreandtravel.netlify.app/ , FrontEnd-Part </p> 
 <p> 🦝 Nothing2Trash : https://nothing2trash.herokuapp.com/ , Teamprojekt, MERN-Stack </p>
 <p> :tropical_drink:  DrinksAndchill : https://drinksandchill.netlify.app/ , Teamprojekt </p>
 <p> :video_game:   Rock-Paper-Scissors against Borg:  https://schlabauke.github.io/Project-RockPaperScissors/ </p>
