@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annabelle</h1>
 <h3 align="center">A passionate and ambitious frontend developer from Germany</h3>
 
-- 🌱 I’m currently learning **REACT, Backend-Basics, more JavaScript**
+- 🌱 I’m currently learning **Vue.js, NestJs, more Backend-Basics, more JavaScript, CS50 **
 - :gear: Work in Progress: 
   <ul>
    <li>Recreating The DesignShop with Vue.js </li>
