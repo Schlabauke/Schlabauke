@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **REACT, Backend-Basics, more JavaScript**
 - :gear: Work in Progress: 
   <ul>
-   <li>Explore and Travel with LogIn,Register,Database-Connection (MERN), you can have a look at the Frontend-Part </li>
+   <li>Recreating The DesignShop with Vue.js </li>
   </ul>
 
 <h3 align="left">Projects:</h3>
