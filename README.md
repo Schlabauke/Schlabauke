@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Vue.js, NestJs, more Backend-Basics, more JavaScript, CS50 **
 - :gear: Work in Progress: 
-  <ul>
-   <li>Recreating The DesignShop with Vue.js </li>
-  </ul>
+  
 
 <h3 align="left">Projects:</h3>
 
